@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lalithyachavala
+- 👋 Hi, I’m Chavala Lalithya
 - 🌱 I’m currently learning HTML,CSS
 
 - 📫 How to reach me lalithyachavala1@gmail.com
